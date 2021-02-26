@@ -111,7 +111,7 @@ a:hover {
     }
 
     .flex-blockB {
-        flex-basis: 30%;
+        flex-basis: 50%;
         margin: 10px;
     }
 }
